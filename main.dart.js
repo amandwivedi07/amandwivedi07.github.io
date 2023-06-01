@@ -51703,27 +51703,27 @@ A.ahQ.prototype={
 $0(){this.a.a0A(this.b)},
 $S:0}
 A.ahR.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/aboutUs",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//aboutUs",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.ahS.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/contactUs",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//contactUs",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.ahT.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/privacy",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//privacy",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.ahU.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/terms",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//terms",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.ahV.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/cancellation",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//cancellation",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.ahW.prototype={
-$0(){A.eK("https://badidukkan.web.app/delivery",0,null)
+$0(){A.eK("https://badidukkan.com//delivery",0,null)
 A.bM(this.a,!1).YG("/delivery",null,t.X)},
 $S:0}
 A.ahX.prototype={
@@ -51775,27 +51775,27 @@ A.aqE.prototype={
 $0(){},
 $S:0}
 A.aqF.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/aboutUs",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//aboutUs",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.aqG.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/contactUs",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//contactUs",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.aqH.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/privacy",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//privacy",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.aqI.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/terms",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//terms",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.aqJ.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/cancellation",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//cancellation",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.aqK.prototype={
-$0(){var s=A.eK("https://badidukkan.web.app/delivery",0,null).k(0)
+$0(){var s=A.eK("https://badidukkan.com//delivery",0,null).k(0)
 window.location.href=s},
 $S:0}
 A.aqL.prototype={
