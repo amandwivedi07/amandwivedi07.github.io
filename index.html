@@ -63,12 +63,25 @@
     firebase.initializeApp(firebaseConfig);
   </script>
   <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2889471477');
+    if (typeof flutterWebViewPlayer !== 'undefined') {
+      flutterWebViewPlayer.setMethodCallHandler(function (method, args) {
+        if (method === 'openUrl') {
+          window.open(args.url, '_blank');
+          return Promise.resolve();
+        }
+        return Promise.reject('Method not implemented');
       });
     }
   </script>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js?v=1691619710');
+      });
+    }
+  </script>
+
 
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
